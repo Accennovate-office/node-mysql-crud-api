@@ -1,9 +1,9 @@
 ﻿{
     "database": {
-        "host": "localhost",
+        "host": "awseb-e-4rbw222ipq-stack-awsebrdsdatabase-q86tu21rvuku.cdx0subq0j8y.ap-south-1.rds.amazonaws.com",
         "port": 3306,
-        "user": "root",
-        "password": "",
-        "database": "node-mysql-crud-api"
+        "user": "ebroot",
+        "password": "SmartByteroot",
+        "database": "ebdb"
     }
 }
